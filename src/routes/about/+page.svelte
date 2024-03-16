@@ -1,3 +1,7 @@
-<h1>About this site</h1>
-<p>TODO...</p>
-<a href="/">Home</a>
+<script>
+
+</script>
+
+<main>
+    <h1>something...</h1>
+</main>
